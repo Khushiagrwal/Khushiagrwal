@@ -16,8 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khushi-agarwal-b819a0220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-agarwal-b819a0220" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/khushi_agarwal_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khushi_agarwal_3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/agarwal_cs_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agarwal_cs_21" height="30" width="40" /></a>
 </p>
 <br>
 
