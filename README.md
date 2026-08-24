@@ -1,29 +1,261 @@
-<h1 align="center"  >Hi 👋, I'm Khushi Agarwal</h1>
-<h3 align="center">A passionate Software Engineer developer from India</h3>
+<div align="center">
+
+# 👋 Hey, I'm Khushi Agarwal
+
+### Software Engineer · Full Stack Developer · AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work+%F0%9F%9A%80;Turning+ideas+into+real+products+%F0%9F%92%A1;Exploring+AI%2C+LLMs+%26+Agentic+Systems+%F0%9F%A4%96;Learning%2C+Building%2C+Breaking%2C+Repeating+%E2%9C%A8" />
+
 <br>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<a href="https://github.com/Khushiagrwal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushiagrwal&label=Profile%20views&color=0e75b6&style=flat" alt="khushiagrwal" /> </p>
+<a href="mailto:khushiagarwal7821@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-🌱 I’m currently learning **DSA,Frameworks**
+</div>
 
- 👨‍💻 All of my projects are available at [khushiagrwal.github.io/Portfolio/](khushiagrwal.github.io/Portfolio/)
 
- 📫 How to reach me **khushiagarwal7821@gmail.com**
+## 🪄 A little about me
+
+text
+💻 Software Engineer from India
+⚡ I enjoy building full-stack applications
+🧠 I love solving problems with code
+🤖 Currently exploring AI, LLMs & Agentic AI
+🎨 I like making applications interactive & visually clean
+🚀 Always building something new
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,angular,nodejs,express,mongodb,mysql,aws,git,github,docker" />
+
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+### 🎨 AI Collaborative Whiteboard
+
+A real-time collaborative whiteboard where multiple users can work together, draw, share boards and communicate in real time.
+
+**Tech:** `Angular` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `Socket.IO`
+
+<a href="https://github.com/Khushiagrwal/AI-Collaboration">
+<img src="https://img.shields.io/badge/View%20Project-7F5AF0?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+
+## 🧠 Currently Learning
+
+🤖 LLMs & Generative AI  
+🧩 Agentic AI  
+🏗️ System Design  
+☁️ AWS & Cloud Architecture  
+⚡ Scalable Backend Systems  
+🧠 Data Structures & Algorithms
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushiagrwal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushiagrwal&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Building ideas into reality, one commit at a time. 🚀
+
+</div>
+---
+
+## 💻 Featured Work
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🎨 AI Collaborative Whiteboard
+
+Real-time collaborative workspace with drawing, sharing, invitations and Socket.IO powered collaboration.
+
+`Angular` `Node.js` `MongoDB` `Socket.IO`
+
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khushi-agarwal-b819a0220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-agarwal-b819a0220" height="30" width="40" /></a>
-</p>
+<a href="https://github.com/Khushiagrwal/AI-Collaboration">
+<img src="https://img.shields.io/badge/Explore%20Project-7F5AF0?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧩 Algo Visualizer
+
+Interactive algorithm visualization platform that makes Data Structures & Algorithms easier to understand through visual animations.
+
+`JavaScript` `Algorithms` `Data Structures`
+
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">  </p>
+<a href="https://algovisualizer-beta.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushiagrwal&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 Build. Learn. Improve. Repeat.
+
 <br>
-  <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushiagrwal&show_icons=true&locale=en&layout=compact" alt="khushiagrwal" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushiagrwal&show_icons=true&locale=en" alt="khushiagrwal" /></p>
+
+✨ Thanks for visiting my profile ✨
+
+</div>
+---
+
+## 💼 Engineering Journey
+
+<div align="center">
+
+| 🚀 | What I'm Working On |
+|:---:|:---|
+| 💻 | Full Stack Development |
+| ⚡ | Real-Time & Scalable Applications |
+| ☁️ | AWS & Cloud Technologies |
+| 🤖 | AI, LLMs & Agentic Systems |
+| 🧠 | Data Structures & Algorithms |
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+text
+☐ Build production-ready AI applications
+☐ Get stronger at System Design
+☐ Go deeper into LLMs & Agentic AI
+☐ Contribute to open-source projects
+☐ Keep solving challenging DSA problems
+
+---
+
+## 🛠️ What I Work With
+
+<div align="center">
+
+### 💻 Development
+
+`Java` · `JavaScript` · `TypeScript` · `Python` · `C#`
+
+### 🎨 Frontend
+
+`Angular` · `HTML` · `CSS` · `RxJS`
+
+### ⚙️ Backend
+
+`Node.js` · `Express.js` · `Spring Boot` · `.NET`
+
+### 🗄️ Databases
+
+`MongoDB` · `MySQL` · `DynamoDB`
+
+### ☁️ Cloud & DevOps
+
+`AWS` · `Git` · `GitHub` · `Docker`
+
+### 🤖 AI & Data
+
+`LLMs` · `Generative AI` · `Machine Learning` · `Data Structures & Algorithms`
+
+</div>
+
+---
+
+## 🧩 Beyond Code
+
+<div align="center">
+
+🎨 Drawing & Painting &nbsp; • &nbsp;
+🎵 Music &nbsp; • &nbsp;
+🪕 Kalimba &nbsp; • &nbsp;
+💡 Building Ideas
+
+</div>
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Khushiagrwal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/khushi-agarwal-b819a0220/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://drive.google.com/file/d/1G2dAKvPmcyg-0K7BtZNGEsB5gjZQ_1Ev/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-Download-7F5AF0?style=for-the-badge&logo=readthedocs&logoColor=white">
+</a>
+
+<a href="mailto:khushiagarwal7821@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushiagrwal&" alt="khushiagrwal" /></p>
+
+<img src="https://komarev.com/ghpvc/?username=Khushiagrwal&label=Profile%20Views&color=7F5AF0&style=flat">
+
+<br><br>
+
+**Building ideas into reality, one commit at a time. 🚀**
+
+</div>
